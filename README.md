@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ****************************************************************************************************
-winverma: Important Notes - You must have the latest node_modules installed in your [local_machine] & audit fixes in npm.
+winverma: Important Notes - You must have the latest node_modules installed in your [local_machine] & audit fixes in npm.  
                             Prerequisites include setting up react and its components.
 
 Final web look samples have been attached:
