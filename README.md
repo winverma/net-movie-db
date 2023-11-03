@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ****************************************************************************************************
 winverma: Important Notes - You must have the latest node_modules installed in your [local_machine] & audit fixes in npm.                                                                                           
                             Prerequisites include setting up react and its components.
-
+ 
 Final web look samples have been attached:
                                                                                                                                                                                                                      
 ![Screenshot 2023-11-03 140519](https://github.com/winverma/net-movie-db/assets/82725829/53b35800-bbb6-46dd-a409-271361baf22a)
