@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ****************************************************************************************************
 winverma: Important Notes - You must have the latest node_modules installed in your [local_machine] & audit fixes in npm. 
+                            
                             Prerequisites include setting up react and its components.
 
 Final web look samples have been attached:
-
 
 ![Screenshot 2023-11-03 140519](https://github.com/winverma/net-movie-db/assets/82725829/53b35800-bbb6-46dd-a409-271361baf22a)
 
@@ -15,7 +15,6 @@ Final web look samples have been attached:
 ![Screenshot 2023-11-03 140638](https://github.com/winverma/net-movie-db/assets/82725829/b1486ff7-95fc-4df4-9b51-e753f81d7b55)
 
 ![Screenshot 2023-11-03 140655](https://github.com/winverma/net-movie-db/assets/82725829/2954cde7-23aa-4e1d-b20b-a3d15bd1731f)
-
 
 ****************************************************************************************************
 ## Available Scripts
