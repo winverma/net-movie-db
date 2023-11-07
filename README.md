@@ -85,4 +85,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 <p align="center">Thank you for scrolling all the way!</p>
-<p align="center"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blue?style=for-the-badge" /></a></p>
+<p align="center"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-yellow?style=for-the-badge" /></a></p>
